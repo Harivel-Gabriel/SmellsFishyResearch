@@ -12,6 +12,6 @@ This directory will help the SmellsFishy crew implementing AI in the project. Th
 
 - Using databases ?
 - Arbre de décision ?
-
+- bigramme ?
 
 
